@@ -8,7 +8,7 @@
 
 03-01-2019
 
-## Lieu
+## Lieu de formation
 
 Becode charleroi
 
@@ -19,5 +19,18 @@ Becode charleroi
 * Approfondir le css
 
 ## difficultés rencontrées
+par ou commencer...
+
+* surtout au niveau du positionnement des bouttons dans l'image.
+* les overflows: hidden;
+* le footer qui est :*  soit visible en dessous de ma carte
+                     * soit complement cachée.
+
+## conclusion
+
+Je vais devoir retravailler sur cet exercice durant ce week-end afin de le terminer
+et tout convertir en sass
+
+
 
 
