@@ -3,10 +3,12 @@
 
 # becode.animations-css
 
+## carte animée
 
-## réalisé le:
 
-03-01-2019
+## date de réalisation:
+
+03-01-2019 - 05-01-2019
 
 ## Lieu de formation
 
@@ -19,17 +21,17 @@ Becode charleroi
 * Approfondir le css
 
 ## difficultés rencontrées
-par ou commencer...
-
-* surtout au niveau du positionnement des bouttons dans l'image.
+* le positionnement des textes dans l'image.
 * les overflows: hidden;
-* le footer qui est :*  soit visible en dessous de ma carte
-                     * soit complement cachée.
+* le footer qui est: **   soit visible en dessous de ma carte
+                     **   soit complement cachée.
 
 ## conclusion
 
-Je vais devoir retravailler sur cet exercice durant ce week-end afin de le terminer
-et tout convertir en sass
+après avoir retravaillé sur cet exercice durant le week-end,
+et grâce a un tuto trouvé sur grafikart, https://www.grafikart.fr/tutoriels/card-ui-629;
+j'ai pu comprendre ce qui ne fonctionnait pas dans mes positionnement de div.
+
 
 
 
